@@ -32,3 +32,21 @@ These are some of the technologies and tools that I work with:
 
  ![Snake animation](https://github.com/jhollyferr/jhollyferr/blob/output/github-contribution-grid-snake.svg)
 
+# Gerador de História boba
+
+- [ ]  Formulário
+    - [x]  Nome do Protagonista (Input)
+    - [x]  Lista de Instrumentos/Armamentos (Select)
+    - [x]  Lista de Gêneros/Espécies (Select)
+    - [x]  Listas de Localidades (Select)
+    - [x]  Lista de Monstros (Select)
+    - [x]  Lista de Acidentes (Select)
+    - [ ]  Para cada select:
+        - [x]  Capturar dados de uma array
+        - [x]  Preencher listas (Selects) dinâmicamente
+        - [ ]  Botão para adicionar novos dados
+- [ ]  Array de imagens definidas por gênero/espécie
+- [ ]  Background randomico (setInterval, setTimeOut, clearInterval)
+- [ ]  Efeito de digitação com uso de @Keyframes
+
+![Gerador%20de%20Histo%CC%81ria%20boba%20d2ee213faf32434c93864b888fc98bbd/Capturar.png](Gerador%20de%20Histo%CC%81ria%20boba%20d2ee213faf32434c93864b888fc98bbd/Capturar.png)
