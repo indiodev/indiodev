@@ -1,10 +1,10 @@
 ### 🛠 About me
 <p>
   <em>
-   Student of Software Engineering at the Institute of <a href="https://icet.ufam.edu.br/"> <b> Exact Sciences and Technology - ICET / UFAM.</b></a>.<br>
+   Student of Software Engineering at the Institute of <a href="https://icet.ufam.edu.br/"> <b> Exact Sciences and Technology - ICET / UFAM.</b></a><br>
   </em>  
-1. <b>Software Enginner</b>;
-2. <b>Web Development</b>;
+1. <b>Software Enginner</b>;<br>
+2. <b>Web Development</b>;<br>
 3. <b>Front-end<b>;
 </p>
 
