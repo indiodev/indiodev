@@ -5,7 +5,6 @@
   </em>  
 1. <b>Software Enginner</b>;<br>
 2. <b>Web Development</b>;<br>
-3. <b>Front-end<b>;
 </p>
 
 ### 👥 Connect with me:
