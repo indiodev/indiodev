@@ -2,7 +2,9 @@
 <p>
   <em>
    Student of Software Engineering at the Institute of <a href="https://icet.ufam.edu.br/"> <b> Exact Sciences and Technology - ICET / UFAM.</b></a>.<br>
-   Objectives: <b>Software Developer</b>, <b>Web Development</b>;
+   + <b>Software Enginner</b>;
+   + <b>Web Development</b>;
+   + <b>Front-end<b>;
   </em>  
 </p>
 
