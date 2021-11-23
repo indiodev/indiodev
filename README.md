@@ -10,7 +10,6 @@
 ### 👥 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/jhollyferr"><img src="https://img.shields.io/badge/-Jhollyfer%20Rodrigues-333333?style=white&logo=linkedin"/></a>
-<a href="https://instagram.com/indio.dev"><img src="https://img.shields.io/badge/-jhollyferr-333333?style=white&logo=instagram"/></a>
 <a href="mailto:jhollyferr@gmail.com"><img src="https://img.shields.io/badge/-jhollyferr@gmail.com-333333?style=white&logo=gmail"/></a>
 </p>
 
@@ -23,8 +22,6 @@ These are some of the technologies and tools that I work with:
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=white&logo=intellij-idea)
 
 ### 📈 My Stats
 |My overall statistics|Top most languages |
