@@ -3,7 +3,7 @@
   <em>
    Student of Software Engineering at the Institute of <a href="https://icet.ufam.edu.br/"> <b> Exact Sciences and Technology - ICET / UFAM.</b></a><br>
   </em>  <br>
-1. <b>Software Enginner</b>;<br>
+1. <b>Software Engineer</b>;<br>
 2. <b>Web Full Stack Developer</b>;<br>
 </p>
 
