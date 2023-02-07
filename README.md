@@ -10,7 +10,7 @@
 ### 👥 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/jhollyferr"><img src="https://img.shields.io/badge/-Jhollyfer%20Rodrigues-333333?style=white&logo=linkedin"/></a>
-<a href="mailto:jhollyferr@gmail.com"><img src="https://img.shields.io/badge/-jhollyferr@gmail.com-333333?style=white&logo=gmail"/></a>
+<a href="mailto:jhollyfer.fr@gmail.com"><img src="https://img.shields.io/badge/-jhollyferr@gmail.com-333333?style=white&logo=gmail"/></a>
 </p>
 
 ### ⚡ Technologies
