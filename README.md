@@ -2,9 +2,11 @@
 <p>
   <em>
    Software Engineer
-  </em>  <br>
-1. <b>Software Engineer</b>;<br>
-2. <b>Web Full Stack Developer</b>;<br>
+  </em>  
+  &
+  <em>
+    Web Developer
+  </em>  
 </p>
 
 ### 👥 Connect with me:
