@@ -19,10 +19,10 @@
 
 These are some of the technologies and tools that I work with:
 
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   
 ### 📈 My Stats
 |My overall statistics|Top most languages |
