@@ -31,6 +31,3 @@ These are some of the technologies and tools that I work with:
 ### 📈 Top most languages 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhollyferr&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)
-
- ![Snake animation](https://github.com/jhollyferr/jhollyferr/blob/output/github-contribution-grid-snake.svg)
-
