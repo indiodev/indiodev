@@ -3,10 +3,6 @@
   <em>
    Software Engineer
   </em>  
-  &
-  <em>
-    Web Developer
-  </em>  
 </p>
 
 ### 👥 Connect with me:
