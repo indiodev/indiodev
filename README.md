@@ -24,6 +24,3 @@ These are some of the technologies and tools that I work with:
 [![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://www.docker.com/)
 
-### 📈 Top most languages 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhollyferr&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)
