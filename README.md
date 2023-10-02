@@ -11,9 +11,9 @@
 <a href="mailto:jhollyfer.fr@gmail.com"><img src="https://img.shields.io/badge/-jhollyfer.fr@gmail.com-333333?style=white&logo=gmail"/></a>
 </p>
 
-### ⚡ Technologies
+### ⚡ Tecnologias
 
-These are some of the technologies and tools that I work with:
+Utilizo diariamente as seguintes tecnologias:
 
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)](https://nodejs.org/)
