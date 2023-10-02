@@ -7,7 +7,7 @@
 
 ### 👥 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/jhollyferr"><img src="https://img.shields.io/badge/-Jhollyfer%20Rodrigues-333333?style=white&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/indiodev"><img src="https://img.shields.io/badge/-Jhollyfer%20Rodrigues-333333?style=white&logo=linkedin"/></a>
 <a href="mailto:jhollyfer.fr@gmail.com"><img src="https://img.shields.io/badge/-jhollyfer.fr@gmail.com-333333?style=white&logo=gmail"/></a>
 </p>
 
